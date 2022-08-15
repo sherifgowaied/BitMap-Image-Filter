@@ -1,5 +1,5 @@
 <img src="https://cs50.harvard.edu/x/2021/psets/4/filter/less/bitmap.png" width="600px"/>
-<img src="[https://cs50.harvard.edu/x/2021/psets/4/filter/less/bitmap.png](https://cs50.harvard.edu/x/2021/psets/4/filter/less/red_smile.png)" width="600px"/>
+<img src="https://cs50.harvard.edu/x/2021/psets/4/filter/less/red_smile.png" width="600px"/>
 
 
 
